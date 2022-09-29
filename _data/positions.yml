@@ -1,0 +1,37 @@
+- title: Visiting Student
+  years: 2021
+  company: Zhejiang Lab
+  location: Hangzhou, China
+  mentors:
+    - name: Yingcai Wu
+      title: Prof.
+- title: Visiting Student
+  years: 2020
+  company: University of Waterloo
+  location: Virtual
+  mentors:
+    - name: Jian Zhao
+      title: Prof.
+- title: Intern Student
+  years: 2019
+  company: UISEE Technology Ltd
+  location: Nanjing, China
+  mentors:
+    - name: Jianbo Shi
+      title: Prof.
+- title: Intern Student
+  years: 2019
+  company: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+  location: Shenzhen, China
+  mentors:
+    - name: Wei Zeng
+      title: Prof.
+- title: Visiting Student
+  years: 2018
+  company: Hong Kong University of Science and Technology
+  location: Hong Kong, China
+  mentors:
+    - name: Huamin Qu
+      title: Prof.
+    - name: Yuanzhe Chen
+      title: Dr.
